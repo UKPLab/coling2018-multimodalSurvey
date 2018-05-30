@@ -17,7 +17,7 @@ Please use the following citation:
 }
 ```
 
-Contact person: Lisa Beinborn, Lisa.Beinborn@gmx.de ; Teresa Botschen, botschen@aiphes.tu-darmstadt.de 
+Contact person: Lisa Beinborn, lisa.beinborn@uni-due.de ; Teresa Botschen, botschen@aiphes.tu-darmstadt.de 
 
 https://www.ukp.tu-darmstadt.de/
 
